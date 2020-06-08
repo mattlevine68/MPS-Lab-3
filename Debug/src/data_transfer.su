@@ -1,0 +1,3 @@
+data_transfer.c:26:6:configureSPI	8	static
+data_transfer.c:59:6:HAL_SPI_MspInit	56	static
+data_transfer.c:107:5:main	24	static
